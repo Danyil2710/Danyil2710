@@ -1,0 +1,2 @@
+<img src="Images/icon4 — копия.png" alt="image" id="col-7"/>
+<img src="Images/icon4.png" alt="image" id="col-8" />
